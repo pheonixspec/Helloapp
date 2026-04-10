@@ -1,3 +1,5 @@
+package org.example;
+
 public class UC6 {
     public static void main(String[] args) {
         // Check whether arguments are provided
